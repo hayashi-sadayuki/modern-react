@@ -1,0 +1,9 @@
+.container {
+    border: solid 1px #ccc;
+    padding: 16px;
+    margin: 8px;
+}
+
+li > div {
+    margin-left: 16px;
+}
